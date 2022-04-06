@@ -10,4 +10,5 @@ This program will displace a geometry for a normal mode with a user-defined scal
 # To run, simply use the following:
 /path/to/python/3/python displace.py FILENAME.hess MODE_NUMBER SCALING_FACTOR
 
-# We note here, the mode counting starts with 0 as is done in ORCA
+- We note here, the mode counting starts with 0 as is done in ORCA
+- The resulting geometry will be printed to the screen (XMOL XYZ).
